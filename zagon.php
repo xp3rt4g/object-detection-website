@@ -17,6 +17,7 @@ session_start();
   </body>
   <script>
     var x = `<?php echo $izpis; ?>`;
+    x.split("seconds.")[1].split("\n").filter(x => x != "")
     console.log(x);
   </script>
 </html>
