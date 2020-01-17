@@ -1,0 +1,40 @@
+body{
+  background-color: #1F2833;
+  color: #66FCF1;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1{
+  text-align: center;
+  font-size: 5rem;
+  padding-top: 5%;
+  padding-bottom: 2%;
+}
+
+p{
+  text-align: center;
+  color: #C5C6C7;
+  font-size: 1.9rem;
+  padding-bottom: 5%;
+}
+
+.sredina{
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 95%;
+}
+
+.center-btn {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  background-color: #66FCF1 !important;
+  color: #1F2833 !important;
+}
